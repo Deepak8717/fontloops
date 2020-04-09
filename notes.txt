@@ -1,0 +1,11 @@
+source : https://codepen.io/petrenkova/pen/RyZYGw
+
+need to make it more responsive so that it can adapt itself to 340px screen. 
+
+(split the container into three column direction when on small screen such as mobile)
+need to figure out sub and sup the bottom part
+replicate the design as close as possible.
+read the source code and find the differnce 
+
+
+
